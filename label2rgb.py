@@ -56,3 +56,4 @@ for file in os.listdir(label_sd):
     label_img = Image.open(label_pathname)
     label_img.putpalette(palette)
     label_img.save(os.path.join(img_sd, file))
+    
