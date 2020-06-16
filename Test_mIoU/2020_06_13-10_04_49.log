@@ -1,0 +1,88 @@
+
+                                                                                         < M A T L A B (R) >
+                                                                               Copyright 1984-2016 The MathWorks, Inc.
+                                                                               R2016b (9.1.0.441655) 64-bit (glnxa64)
+                                                                                          September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+seg_res_dir =
+
+/home1/zqqHD/DataSet/Pascal/VOCdevkit/VOC2012/voc12/Mypaper/onlypoolnet/onlypoolnet/val8000/
+
+test confusion: 58/1449
+test confusion: 114/1449
+test confusion: 183/1449
+test confusion: 255/1449
+test confusion: 328/1449
+test confusion: 377/1449
+test confusion: 439/1449
+test confusion: 480/1449
+test confusion: 544/1449
+test confusion: 621/1449
+test confusion: 668/1449
+test confusion: 742/1449
+test confusion: 818/1449
+test confusion: 893/1449
+test confusion: 962/1449
+test confusion: 1005/1449
+test confusion: 1083/1449
+test confusion: 1168/1449
+test confusion: 1255/1449
+test confusion: 1316/1449
+test confusion: 1340/1449
+test confusion: 1394/1449
+Percentage of pixels correctly labelled overall: 88.602%
+Accuracy for each class (pixel accuracy)
+      background: 91.744%
+       aeroplane: 95.592%
+         bicycle: 70.172%
+            bird: 92.435%
+            boat: 83.866%
+          bottle: 85.935%
+             bus: 89.824%
+             car: 86.552%
+             cat: 92.175%
+           chair: 37.886%
+             cow: 78.618%
+     diningtable: 30.210%
+             dog: 88.796%
+           horse: 85.314%
+       motorbike: 82.707%
+          person: 85.342%
+     pottedplant: 58.510%
+           sheep: 82.605%
+            sofa: 47.316%
+           train: 86.377%
+       tvmonitor: 84.540%
+-------------------------
+Mean Class Accuracy: 77.929%
+Accuracy for each class (intersection/union measure)
+      background: 87.479%
+       aeroplane: 73.456%
+         bicycle: 30.435%
+            bird: 65.822%
+            boat: 49.425%
+          bottle: 65.898%
+             bus: 77.628%
+             car: 71.391%
+             cat: 76.291%
+           chair: 23.331%
+             cow: 68.315%
+     diningtable: 28.618%
+             dog: 73.239%
+           horse: 69.755%
+       motorbike: 64.404%
+          person: 68.579%
+     pottedplant: 39.483%
+           sheep: 70.506%
+            sofa: 37.480%
+           train: 62.294%
+       tvmonitor: 43.923%
+-------------------------
+Average intersection: 216974606.000%
+Average union: 272799108.000%
+Average accuracy: 59.417%
