@@ -46,3 +46,6 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 
 [生成的pickle种子](https://pan.baidu.com/s/1Lpv_tFkc9VUsWzIvW7hxpg)提取码：038a
 
+路径：Semantic_Image_Segmentation/make_localization_cues/get_localization_cues_model/models/vgg_cls8.pth
+
+[多标签分类模型](链接：https://pan.baidu.com/s/1ZfKZGBoS5iML6T6ZRBirfg)提取码：6p7z
