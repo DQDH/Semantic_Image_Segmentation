@@ -59,3 +59,7 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 [DSS_Caffe_model_released](https://pan.baidu.com/s/1NVVpH-mZJwFvHRpI3hmT-g)提取码：rtib
 
 [DSS_Caffe_model_best](https://pan.baidu.com/s/1mkdf1KzKi5EzEVFc9LNu1A)提取码：p4k5
+
+[DSS_pytorch_model](https://pan.baidu.com/s/1O3XzTeEiwQXiInbV4U9Bqw)提取码：170k 
+
+[DSS_pytorch_pretraind_model](https://pan.baidu.com/s/1IHySM0dnqgNwYyY8rbs-nA)提取码：qkc7
