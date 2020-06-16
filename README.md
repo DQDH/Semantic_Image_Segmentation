@@ -1,5 +1,15 @@
 基于超像素扩展和显著性目标扩展的关键词弱监督图像语义分割
 
+数据路径
+目录：/home1/zqqHD/DataSet/Pascal/VOCdevkit/VOC2012
+ImageSets
+JPEGImages
+SegmentationClass
+SegmentationClassAug_strong
+train_aug_val_DRFI
+voc12/JPEGImages
+
+
 step1：根据关键词标签训练多标签分类网络获得模型，以便后续获得类激活图
 训练及测试脚本见  MySeg/make_localization_cues/get_localization_cues_model/路径下的run.sh
 
