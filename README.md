@@ -18,3 +18,25 @@ tips:
 使用DSS显著性目标检测方法时，也需要提前对训练样本进行处理，并保存结果，并修改代码中显著性目标扩展的部分代码
 使用Poolnet方法扩展时，直接运行脚本即可，无需提前处理样本。
 
+环境配置：
+服务器136，137 已安装pycharm tmux htop等工具，使用pycharm设置：
+1. vim ~/.bashrc
+2. shift+g 到最后一行 把pycharm.sh的文件路径添加进去alias pycharm="sh /usr/local/pycharm/pycharm-community-2019.2.3/bin/pycharm.sh"
+3. source ~/.bashrc终端输入pycharm，远程debug
+
+查看cuda版本：cat /usr/local/cuda/version.txt
+
+AffinityNet环境配置：
+CUDA=9.0
+1.创建虚拟环境：conda create -n Affinity python=3.6
+2.激活虚拟环境：source activate Affinity
+3.安装pytorch1.1.0：conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
+4.安装caffe：conda install caffe-gpu
+5.降低numpy版本:conda install numpy=1.16.2
+6.安装pydensecrf：pip install pydensecrf
+
+PoolNet测试时，使用和AffinityNet相同的环境
+
+DSS-master采用的环境为dsrg环境，调用环境变量export PYTHONPATH=/home/zqq/caffe/python:$PYTHONPATH（原生caffe）
+
+MySeg工程中的make_localization_cues所使用的环境为Affinity
