@@ -41,3 +41,6 @@ PoolNet测试时，使用和AffinityNet相同的环境
 DSS-master采用的环境为dsrg环境，调用环境变量export PYTHONPATH=/home/zqq/caffe/python:$PYTHONPATH（原生caffe）
 
 MySeg工程中的make_localization_cues所使用的环境为Affinity
+
+生成地pickle种子:链接：https://pan.baidu.com/s/1Lpv_tFkc9VUsWzIvW7hxpg 
+提取码：038a
