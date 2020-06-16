@@ -19,6 +19,7 @@ tips:
 使用Poolnet方法扩展时，直接运行脚本即可，无需提前处理样本。
 
 环境配置：
+
 服务器136，137 已安装pycharm tmux htop等工具，使用pycharm设置：
 1. vim ~/.bashrc
 2. shift+g 到最后一行 把pycharm.sh的文件路径添加进去alias pycharm="sh /usr/local/pycharm/pycharm-community-2019.2.3/bin/pycharm.sh"
