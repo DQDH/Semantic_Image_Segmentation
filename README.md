@@ -63,3 +63,7 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 [DSS_pytorch_model](https://pan.baidu.com/s/1O3XzTeEiwQXiInbV4U9Bqw)提取码：170k 
 
 [DSS_pytorch_pretraind_model](https://pan.baidu.com/s/1IHySM0dnqgNwYyY8rbs-nA)提取码：qkc7
+
+路径：Semantic_Image_Segmentation/make_localization_cues/get_sod_model/PoolNet-master/results/models/
+
+[PoolNet_model](https://pan.baidu.com/s/1H9L9Bcji7iPts7t4nxhyxA)提取码：lwz2
