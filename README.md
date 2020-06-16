@@ -52,4 +52,4 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 
 路径：Semantic_Image_Segmentation/make_localization_cues/get_sod_model/drfi_matlab-master/model/
 
-[drfi模型](链接：https://pan.baidu.com/s/1wbgBaZ8cCWcYZGVQBMc7EA)提取码：wn9d 
+[drfi模型](https://pan.baidu.com/s/1wbgBaZ8cCWcYZGVQBMc7EA)提取码：wn9d 
