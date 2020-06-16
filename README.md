@@ -55,4 +55,7 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 [drfi模型](https://pan.baidu.com/s/1wbgBaZ8cCWcYZGVQBMc7EA)提取码：wn9d 
 
 路径：Semantic_Image_Segmentation/make_localization_cues/get_sod_model/DSS-master/
-[DSS_Caffe_model](https://pan.baidu.com/s/1NVVpH-mZJwFvHRpI3hmT-g)提取码：rtib
+
+[DSS_Caffe_model_released](https://pan.baidu.com/s/1NVVpH-mZJwFvHRpI3hmT-g)提取码：rtib
+
+[DSS_Caffe_model_best](链接：https://pan.baidu.com/s/1mkdf1KzKi5EzEVFc9LNu1A)提取码：p4k5
