@@ -74,4 +74,8 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 链接：https://pan.baidu.com/s/1UvgHgA-9XgAg7UhUEoXKcg 
 提取码：0zxp
 
+emantic_Image_Segmentation/pretrained_model/localization_cues/
+链接：https://pan.baidu.com/s/1-UpBZGs5Elki-W8P_vkpAA 
+提取码：gjjx
+
 
