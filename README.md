@@ -87,7 +87,7 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 
 路径：Semantic_Image_Segmentation/pretrained_model/poolnet/
 
-[PoolNet与训练模型](https://pan.baidu.com/s/1ScxdQh9G4bftY1BWu0Wnkg)提取码：ljq6 
+[PoolNet预训练模型](https://pan.baidu.com/s/1ScxdQh9G4bftY1BWu0Wnkg)提取码：ljq6 
 
-[PoolNet与训练模型](https://pan.baidu.com/s/1gTxp2TO72lfIRKL-ieH3-Q)提取码：98id
+[PoolNet预训练模型](https://pan.baidu.com/s/1gTxp2TO72lfIRKL-ieH3-Q)提取码：98id
 
