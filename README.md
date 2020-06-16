@@ -42,6 +42,6 @@ DSS-master采用的环境为dsrg环境，调用环境变量export PYTHONPATH=/ho
 
 MySeg工程中的make_localization_cues所使用的环境为Affinity
 
-
-[生成的pickle种子 路径：Semantic_Image_Segmentation/make_localization_cues/generate_cues/results/pickle/](https://pan.baidu.com/s/1Lpv_tFkc9VUsWzIvW7hxpg)提取码：038a
+路径：Semantic_Image_Segmentation/make_localization_cues/generate_cues/results/pickle/
+[生成的pickle种子] (https://pan.baidu.com/s/1Lpv_tFkc9VUsWzIvW7hxpg)提取码：038a
 
