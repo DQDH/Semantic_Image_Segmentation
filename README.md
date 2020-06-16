@@ -68,14 +68,15 @@ MySeg工程中的make_localization_cues所使用的环境为Affinity
 
 [PoolNet_model](https://pan.baidu.com/s/1H9L9Bcji7iPts7t4nxhyxA)提取码：lwz2
 
-
+预训练模型：
 
 路径：Semantic_Image_Segmentation/pretrained_model/seg/vgg16_20M_mc.caffemodel
-链接：https://pan.baidu.com/s/1UvgHgA-9XgAg7UhUEoXKcg 
-提取码：0zxp
 
-emantic_Image_Segmentation/pretrained_model/localization_cues/
-链接：https://pan.baidu.com/s/1-UpBZGs5Elki-W8P_vkpAA 
-提取码：gjjx
+[DSRG分割网络预训练模型](https://pan.baidu.com/s/1UvgHgA-9XgAg7UhUEoXKcg)提取码：0zxp
 
+路径：Semantic_Image_Segmentation/pretrained_model/localization_cues/
 
+[多标签分类网络预训练模型](https://pan.baidu.com/s/1-UpBZGs5Elki-W8P_vkpAA)提取码：gjjx
+
+路径：Semantic_Image_Segmentation/pretrained_model/poolnet/
+[PoolNet与训练模型](https://pan.baidu.com/s/1ScxdQh9G4bftY1BWu0Wnkg)提取码：ljq6 
