@@ -2,18 +2,18 @@
 =====
 环境配置：
 -----
-AffinityNet环境配置：
-CUDA=9.0
-1.创建虚拟环境：conda create -n Affinity python=3.6
-2.激活虚拟环境：source activate Affinity
-3.安装pytorch1.1.0：conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
-4.安装caffe：conda install caffe-gpu
-5.降低numpy版本:conda install numpy=1.16.2
-6.安装pydensecrf：pip install pydensecrf
+AffinityNet环境配置:<br>
+CUDA=9.0<br>
+1.创建虚拟环境：conda create -n Affinity python=3.6<br>
+2.激活虚拟环境：source activate Affinity<br>
+3.安装pytorch1.1.0：conda install pytorch torchvision cudatoolkit=9.0 -c pytorch<br>
+4.安装caffe：conda install caffe-gpu<br>
+5.降低numpy版本:conda install numpy=1.16.2<br>
+6.安装pydensecrf：pip install pydensecrf<br>
 
-PoolNet测试时，使用和AffinityNet相同的环境
-DSS-master采用的环境为dsrg环境，调用环境变量export PYTHONPATH=/home/zqq/caffe/python:$PYTHONPATH（原生caffe）
-MySeg工程中的make_localization_cues所使用的环境为Affinity
+PoolNet测试时，使用和AffinityNet相同的环境<br>
+DSS-master采用的环境为dsrg环境，调用环境变量export PYTHONPATH=/home/zqq/caffe/python:$PYTHONPATH（原生caffe）<br>
+MySeg工程中的make_localization_cues所使用的环境为Affinity<br>
 
 数据路径
 目录：/home1/zqqHD/DataSet/Pascal/VOCdevkit/VOC2012
