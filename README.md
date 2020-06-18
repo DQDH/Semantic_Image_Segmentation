@@ -15,18 +15,20 @@ PoolNet测试时，使用和AffinityNet相同的环境<br>
 DSS-master采用的环境为dsrg环境，调用环境变量export PYTHONPATH=/home/zqq/caffe/python:$PYTHONPATH（原生caffe）<br>
 MySeg工程中的make_localization_cues所使用的环境为Affinity<br>
 
-数据路径
-目录：/home1/zqqHD/DataSet/Pascal/VOCdevkit/VOC2012
-ImageSets
-JPEGImages
-SegmentationClass
-SegmentationClassAug_strong
-train_aug_val_DRFI
-voc12/JPEGImages
+数据路径:
+-----
+目录：/home1/zqqHD/DataSet/Pascal/VOCdevkit/VOC2012<br>
+ImageSets<br>
+JPEGImages<br>
+SegmentationClass<br>
+SegmentationClassAug_strong<br>
+train_aug_val_DRFI<br>
+voc12/JPEGImages<br>
 
-
-step1：根据关键词标签训练多标签分类网络获得模型，以便后续获得类激活图
-训练及测试脚本见  MySeg/make_localization_cues/get_localization_cues_model/路径下的run.sh
+算法流程：
+-----
+step1：根据关键词标签训练多标签分类网络获得模型，以便后续获得类激活图<br>
+训练及测试脚本见  MySeg/make_localization_cues/get_localization_cues_model/路径下的run.sh<br>
 
 step2：多类激活图获得的定位标签进行超像素扩展和显著性目标扩展
 显著性目标检测方法有drfi、dss和poolnet，每个方法的具体工程代码见  MySeg/make_localization_cues/get_sod_model
